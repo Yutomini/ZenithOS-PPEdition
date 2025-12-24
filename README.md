@@ -1,2 +1,2 @@
-# ZenithOS-PPEdition
+# ZenithOS-PowerPointEdition
 Scratch版ZenithOSをPowerPointに移植したものです
