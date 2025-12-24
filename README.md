@@ -1,0 +1,2 @@
+# ZenithOS-PPEdition
+Scratch版ZenithOSをPowerPointに移植したものです
